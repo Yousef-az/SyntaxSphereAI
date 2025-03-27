@@ -7,7 +7,7 @@
         <div class="header-content">
             <h1>SYNTAXSPHERE - AI</h1>
             <nav>
-                <a href="/">Home</a>
+                <a href="/static">Home</a>
                 <a href="/dashboard">Dashboard</a>
                 <a href="/integrations">Integrations</a>
             </nav>
